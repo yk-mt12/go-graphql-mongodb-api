@@ -1,0 +1,12 @@
+# GraphQL schema example
+#
+# https://gqlgen.com/getting-started/
+
+type Movie {
+  id: ID!
+  name: String!
+}
+
+input NewMovie {
+  
+}
